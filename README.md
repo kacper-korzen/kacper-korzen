@@ -1,28 +1,24 @@
-# 👋 Hello, I'm Kacper!
-I'm a full-stack development enthusiast and a certified programmer technician in Poland. When I'm not coding, you can find me on the badminton court or spending time with my two adorable hamsters. I'm passionate about building websites and continuously learning to grow in the field of web development.
+# 👨‍💻 Kacper | Python Backend Developer (in progress)
 
-## 💫 About Me:
-🔭  I’m currently working on improving my coding skills and building personal projects. <br>
-👯  I’m looking to collaborate on open-source projects or projects that align with my interests. <br>
-🤝  I’m looking for help with my projects and guidance from experienced developers. <br>
-✉️   You can contact me at [k.kacper.korzeniewski@gmail.com](mailto:k.kacper.korzeniewski@gmail.com) <br>
-🌱  I’m currently learning full-stack development with The Odin Project. <br>
-💬  Ask me about my projects, badminton, or my hamsters! <br>
-⚡  Fun fact: When I'm not debugging, I'm busy hamster-sitting or perfecting my badminton serve. <br>
- 
+I'm a programmer technician from Poland, shifting my focus toward Python backend development.  
+My current goal is to build a strong portfolio of practical Python projects, starting with a CLI tool and gradually moving into web APIs.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord.gg/cTgffawq) 
+## About Me
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+- 🌱 Currently learning **backend development with Python**, especially Flask and FastAPI. Before that, I picked up some basic web development (HTML, CSS, JavaScript).
+-  💻 I recently finished a **Python CLI project** (you can check it in pined repos). During my student internship, I used Python to build a **desktop application that connected to a Firebird database**.
+- 🌐 Knowing the basics of web development helps me understand how frontend and backend communicate, which is useful when designing clean and predictable APIs.
+- 🤝 I'm looking for opportunities to **learn from more experienced developers** and contribute to Python-based backend or web projects.
+- ✉️ You can contact me at [k.kacper.korzeniewski@gmail.com](mailto:k.kacper.korzeniewski@gmail.com)
+- ⚡ Fun fact: I enjoy badminton and I have two hamsters.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kacper-korzen&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kacper-korzen&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kacper-korzen&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## 🎯 What I'm working toward
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Becoming a **confident Python backend developer** who can design and build small, focused services.
+- Improving my **web API skills** with FastAPI or Flask and deploying them on a cloud-like service.
+- Learning how to write clean, maintainable code and integrate backend systems with databases and clients.
+
+
