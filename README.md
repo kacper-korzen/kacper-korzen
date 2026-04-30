@@ -10,7 +10,7 @@ My current goal is to build a strong portfolio of practical Python projects, sta
 - 🌐 Knowing the basics of web development helps me understand how frontend and backend communicate, which is useful when designing clean and predictable APIs.
 - 🤝 I'm looking for opportunities to **learn from more experienced developers** and contribute to Python-based backend or web projects.
 - ✉️ You can contact me at [k.kacper.korzeniewski@gmail.com](mailto:k.kacper.korzeniewski@gmail.com)
-- ⚡ Fun fact: I enjoy badminton and I have two hamsters.
+- ⚡ Fun fact: I enjoy badminton and I have a hamster.
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
